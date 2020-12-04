@@ -241,3 +241,48 @@ footer {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center; }
+
+#panel {
+  background-color: #770000;
+  height: 1000px; }
+
+#title_resume {
+  font-size: 50px;
+  color: #770000;
+  font-family: Montserrat;
+  font-weight: bold; }
+
+#content_resume {
+  padding-left: 70px;
+  padding-top: 50px; }
+
+hr {
+  opacity: 1;
+  width: 100px;
+  height: 5px;
+  margin-right: 2000px;
+  background-color: #770000; }
+
+#title1 {
+  font-size: 35px;
+  color: black;
+  opacity: 0.5;
+  font-family: Montserrat; }
+
+h2 {
+  font-size: 28px;
+  color: #770000;
+  font-family: Montserrat;
+  font-weight: bold; }
+
+h3 {
+  font-size: 20px;
+  color: black;
+  font-family: Montserrat;
+  font-weight: bold; }
+
+h4 {
+  opacity: 0.5;
+  font-size: 20px;
+  color: black;
+  font-family: Montserrat; }
